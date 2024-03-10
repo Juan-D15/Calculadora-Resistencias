@@ -1,0 +1,29 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+target/
+
+# Carpeta de compilación de NetBeans
+private.xml
+
+
+# Archivos privados de NetBeans
+nb-configuration.xml
+nb-configuration.xml.orig
+
+# Carpetas y archivos de NetBeans
+nbproject/private/
+nbproject/Makefile-*.mk
+nbproject/Package-*.bash
+nbproject/configs/
+
+# Carpeta de datos del usuario en NetBeans
+nbproject/GeneratedCode/
+
+# Carpetas de respaldo y archivos temporales
+backup*/
+*.bak
+*~
